@@ -1,5 +1,5 @@
 const Consts = {
-    URL_DB: 'mongodb+srv://yuri:3OgMD8Ln0gV49ADe@cluster0.lglwx37.mongodb.net/guns',
+    URL_DB: String(process.env.URL_CONEXAO_DB),
     COLLECTION_WEAPON: 'Weapons',
     COLLECTION_AMMO: 'Ammo',
 

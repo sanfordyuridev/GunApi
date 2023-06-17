@@ -1,3 +1,4 @@
+import "dotenv/config";
 import Consts from "./src/Utils/Consts.js";
 import app from "./src/app.js";
 
