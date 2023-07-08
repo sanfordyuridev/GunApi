@@ -12,6 +12,7 @@
     "author": "Yuri Sanford",
     "license": "ISC",
     "devDependencies": {
+        "eslint": "^8.43.0",
         "nodemon": "^2.0.22"
     },
     "dependencies": {
